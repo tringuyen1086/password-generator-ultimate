@@ -3,6 +3,9 @@ This is a password generator web page that is primarily built using JavaScript.
 
 [Password Generator Page](https://tringuyen1086.github.io/password-generator-ultimate/)
 
+# Project Visual
+
+![image](https://user-images.githubusercontent.com/71200950/160573468-1c23a078-35f8-4041-a1aa-1c7b3d6d6cab.png)
 
 # Usage
 The page displays a text area to the user with the button "Generate Password" below.
